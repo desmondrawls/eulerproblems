@@ -56,5 +56,5 @@ class Multiples
   end
 end
 
-ten = Multiples.new(1000, 3, 5, 7)
-puts ten.better_sum
+thousand = Multiples.new(1000, 3, 5)
+puts thousand.better_sum
